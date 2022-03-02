@@ -1,5 +1,5 @@
 <template>
-    <div>controll Login</div>
+    <div>controll Login UI</div>
 </template>
 
 <script>
